@@ -1,0 +1,64 @@
+{% comment %}
+	GEMPAGES BUILDER (https://apps.shopify.com/gempages)
+
+	You SHOULD NOT modify source code in this file because
+	It is automatically generated from GEMPAGES BUILDER
+	Try to edit page with the live editor.
+{% endcomment %}
+<!doctype html>
+<html
+  {% if request.design_mode %}
+    class="shopify-design-mode"
+  {% endif %}
+  lang="{{ request.locale.iso_code }}"
+>
+  <head>
+    {%- if settings.favicon != blank -%}
+      <link
+        rel="icon"
+        type="image/png"
+        href="{{ settings.favicon | image_url: width: 32, height: 32 }}"
+      >
+    {%- endif -%}
+
+    {% comment %}
+      Opt into cross-document (MPA) view transitions and hold first paint until #MainContent
+      parses, so the transition runs consistently.
+      Both are gated on the same settings as the view-transitions.js opt-out switch (see snippets/scripts.liquid).
+    {% endcomment %}
+    {% if settings.transition_to_main_product or settings.page_transition_enabled %}
+      {% style %}
+        @media (prefers-reduced-motion: no-preference) {
+          @view-transition {
+            navigation: auto;
+          }
+        }
+      {% endstyle %}
+      <link
+        rel="expect"
+        href="#MainContent"
+        blocking="render"
+        id="view-transition-render-blocker"
+      >
+    {% endif %}
+
+    {%- render 'meta-tags' -%}
+    {%- render 'stylesheets' -%}
+    {%- render 'card-hover-effect-styles' -%}
+    {%- render 'fonts' -%}
+    {%- render 'scripts' -%}
+    {%- render 'theme-styles-variables' -%}
+    {%- render 'color-palette' -%}
+
+    {% if request.design_mode %}
+      {%- render 'theme-editor' -%}
+    {% endif %}
+
+    {{ content_for_header }}
+  </head>
+
+  <body>
+<div class="gem-container">
+	{{ content_for_layout }}
+</div><!-- end .gem-container --></body>
+</html>

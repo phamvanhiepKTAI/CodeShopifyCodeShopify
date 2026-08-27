@@ -1,0 +1,301 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "gp_section_634254758860816983": {
+      "settings": {
+        "checksum": "36b01a2399ff8af11a498296873a2efaad68728d15a16319c4c66142223316ad_1_1_1_0__1",
+        "gg24FsAjlRW_label": "<p>Fuel Your Wellness</p>"
+      },
+      "type": "gp-section-634254758860816983"
+    },
+    "gp_section_634254758860817389": {
+      "settings": {
+        "checksum": "84453cb8c72c4099ad40bc791d9f330921258891c9a01fdf3601734d1a08e359_1_1_1_0__1",
+        "ggtMZWNrnjv_text": "<p>This page is part of an education funnel for new products. <a href=\"https://gempages.net/blogs/shopify/beverage-sales-funnel-psychology?utm_source=gempages&amp;utm_medium=template-library&amp;utm_campaign=beverage-sales-funnel-psychology\" target=\"_blank\"><strong><u>See the breakdown here</u></strong></a></p>",
+        "section_preload": "true"
+      },
+      "type": "gp-section-634254758860817389"
+    },
+    "gp_section_634254759263470573": {
+      "settings": {
+        "checksum": "0d9d119299ddd51e3937834dd8e063ec3c20bc5404883390a680d46fef236672_1_1_1_0__1",
+        "ggcx5x_eLGr_label": "<p>Fuel Your Wellness</p>",
+        "ggtOayPbEJ3_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-2d0d734f-5405-4c8a-8614-38ad4ae4ff69.png",
+        "section_preload": "true"
+      },
+      "type": "gp-section-634254759263470573"
+    },
+    "gp_section_634254759280247346": {
+      "settings": {
+        "checksum": "af71292141f3c2b2a01f07e78698bb97657092b71afac20d289b07e9035ae3bd_1_1_1_0__1",
+        "gg1ni_-9f7W_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-6baeee64-f268-4ca2-b1a2-9e27d0a20a62.png"
+      },
+      "type": "gp-section-634254759280247346"
+    },
+    "gp_section_634254760823751255": {
+      "settings": {
+        "checksum": "dbb3a869c0abc7604e6cb1a5f86f4a027bbd2b091d6f57dc29dcc4adfdcc043c_1_1_1_0__1",
+        "ggIWIfL6SNS_text": "6 Drinks = 2 Free Gifts!🎁",
+        "gglj-PUe_aG_dayLabel": "Days",
+        "gglj-PUe_aG_hourLabel": "Hrs",
+        "gglj-PUe_aG_minuteLabel": "MIN",
+        "gglj-PUe_aG_secondLabel": "SEC",
+        "gglj-PUe_aG_weekLabel": "Weeks",
+        "ggnf-w4Jg2c_label": "<p>Get Now</p>",
+        "ggpekM46_S8_text": "<p>Your first sip deserves a gift.</p>"
+      },
+      "type": "gp-section-634254760823751255"
+    },
+    "gp_section_634254760857305868": {
+      "settings": {
+        "checksum": "4110218c87216aa4775228d5dd60846e880eec4a6994d6d4dea09862fd0dd97c_1_1_1_0__1",
+        "gg4rFUxxNPR_text": "<p>Alex Carter - Creative Director</p>",
+        "ggAEBvwrE96_text": "<p>“As a creative, I love how Gema <span style=\"background-color:rgba(255, 107, 1, 0.12);\">fuels both my focus and skin health</span> — it’s a daily ritual that keeps me feeling refreshed and inspired.”</p>",
+        "ggKU0u0SBeE_text": "<p>Verified Buyer</p>",
+        "ggPNoFTB4iw_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-24a3c3e3-1d61-4dc7-96dd-4c7f58e65e53.png",
+        "ggmnYi3coG2_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-7627cfcf-75bc-4853-a9b4-6a28933ef34e.png"
+      },
+      "type": "gp-section-634254760857305868"
+    },
+    "gp_section_634254760874083309": {
+      "settings": {
+        "checksum": "6496d761ea9ae5b6445dbe5d63f2e5958f60497773a2ef536264f6e943128930_1_1_1_0__1",
+        "gg1eFQuOEei_text": "Refresh your day with<br><span style=\"background-color:rgba(255,107,1,0.12);\"><i>green matcha goodness</i></span><br>and natural vitality",
+        "ggBdy8MZKXa_childItem_0": "<p>Radiant Skin: Hydrating jasmine &amp; aloe for glow</p>",
+        "ggBdy8MZKXa_childItem_1": "<p>Focused Energy: Smooth focus from matcha &amp; jasmine</p>",
+        "ggBdy8MZKXa_childItem_2": "<p>Calm &amp; Revive: Cucumber &amp; aloe to refresh skin</p>",
+        "ggG6DZKpqsU_childItem_0": "<p>10-Day Easy Returns and Exchanges</p>",
+        "ggGD7eb-s5T_label": "<p>Fuel Your Wellness</p>",
+        "ggXPF-0h9yf_text": "<p>1500+ Happy Customers</p>",
+        "ggfw1SqJCxt_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-2e98e395-c08b-4e35-b275-de9b51b4d3a8.png",
+        "gghseEmVPO2_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-677af688-17fc-4199-b803-fb9a7d2c22e7.png",
+        "ggiyyD9J40L_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-61c25942-6fdd-48f2-b671-bfa8f4c72b4d.png",
+        "ggoQ_d7zL_Z_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-354b0b53-b64f-4e13-8666-ba9611805631.png",
+        "ggtqob0vyQv_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-4b682a34-33d6-40ab-85b5-0690c07b22f6.png"
+      },
+      "type": "gp-section-634254760874083309"
+    },
+    "gp_section_634254761578725938": {
+      "settings": {
+        "checksum": "af055ef0b8f05fddd4bbf363a0cb33da9ab190be4e40d4f3c83732950e0615a1_1_1_1_0__1",
+        "gg5dSnjBKv8_text": "A Pure Process, A Powerful Sip",
+        "gg6MABmr6nG_text": "<p>Packaging: Sealed to lock in flavor and benefits.</p>",
+        "ggK4oVuWISM_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-cc04ee1f-f2ba-405c-b4cb-e3991339a86b.png",
+        "ggRLyM6hKfU_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-5672d404-47cf-44d1-a35a-37ca124ba707.png",
+        "ggX1HtYnvmP_background_desktop_image_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-8ba070c2-8305-4a25-a302-1d5811a03c7e.png",
+        "ggX983Qa8O__srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-c0d965dc-c24a-462a-baf3-3805def9647d.png",
+        "ggYV_moK2V5_text": "<p>&nbsp; &nbsp;From Nature to You &nbsp;&nbsp;</p>",
+        "ggYvGnGac4Q_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-999914ec-4095-4352-81dc-ecd74ff44fb5.png",
+        "gg_jLS8S_9L_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-090d07d4-cf3c-4c4e-8d38-029b7a7c8e7e.png",
+        "gggCjLTpc8e_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-d617a389-8cd9-4af6-88cb-411aa6e93ba3.png",
+        "gggG6ZpbTYB_text": "<p>Processing: Expertly crafted to preserve natural quality.</p>",
+        "ggyBzZlk4OY_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-9a650338-42c7-4af9-ae28-36a8903feba8.png",
+        "ggyXrXl_DVp_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-756131ea-885d-4ed2-aca9-18e252bbbcc0.png",
+        "ggya7jdam8P_text": "<p>Harvest: Carefully handpicked for optimal freshness.</p>"
+      },
+      "type": "gp-section-634254761578725938"
+    },
+    "gp_section_634254761729721100": {
+      "settings": {
+        "checksum": "6959d7a7b99f692305e5a1a3adf2b1f77706d7741f197b849030e8a5f3a34a6d_1_1_1_0__1",
+        "ggJ7ui3TNwg_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-507275d0-096b-4631-8a66-5c54c90c165b.png",
+        "ggJZXy3fJfC_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-68757370-f685-4ee5-a4ed-5034412c15d4.png",
+        "ggQ4WOZDvjd_text": "<p>4.9 Stars rating</p>",
+        "ggRj33X5UPJ_text": "1500+",
+        "gghgFmbPyTq_text": "<p>Happy Customers</p>"
+      },
+      "type": "gp-section-634254761729721100"
+    },
+    "gp_section_634254761847161612": {
+      "settings": {
+        "checksum": "dc429e566ad7121ecadc1adfea6b478ffd1f3b276f71215df26dc9d196f96f8c_1_1_1_0__1",
+        "gg-RuWNT777_text": "<p>Absolutely! It's designed for daily use to support energy and focus.</p>",
+        "gg1z9OkcJ9k_text": "<p>Each pouch contains 2 grams of ceremonial-grade matcha.</p>",
+        "ggGV0t2xvfe_text": "<p>It's made from premium Japanese matcha, cold-extracted to retain maximum nutrients and flavor.</p>",
+        "ggHt0u_CGrh_text": "<p>No, it’s free from common allergens like dairy, soy, and gluten.</p>",
+        "ggKG25EP6k__text": "<p>&nbsp; &nbsp;Nature’s daily boost &nbsp;&nbsp;</p>",
+        "ggWRSCbtbVk_text": "Frequently Asked Questions",
+        "ggX6HEUKj8E_text": "<p>Store unopened pouches in a cool, dry place. Refrigerate after opening and consume within 48 hours.</p>",
+        "ggleL53aDUA_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-8d4d5f41-6922-47ee-99d6-4add138dd668.png",
+        "ggum4oLQ9-5_childItem_0": "<p>What exactly makes Match Glow Shot so incredibly unique?</p>",
+        "ggum4oLQ9-5_childItem_1": "<p>How much pure matcha is contained in each pouch?</p>",
+        "ggum4oLQ9-5_childItem_2": "<p>Is this product suitable for all adult ages worldwide?</p>",
+        "ggum4oLQ9-5_childItem_3": "<p>How should I properly store unopened and opened pouches?</p>",
+        "ggum4oLQ9-5_childItem_4": "<p>Can I safely drink Match Glow Shot every single day?</p>",
+        "ggum4oLQ9-5_childItem_5": "<p>Are there any common allergens contained in the product?</p>",
+        "ggyuxlavJ43_text": "<p>Yes, it’s safe and beneficial for adults of all ages.</p>"
+      },
+      "type": "gp-section-634254761847161612"
+    },
+    "gp_section_634254761847161837": {
+      "settings": {
+        "checksum": "36ed0112df694f9e9f124394b58b711ef2fd484f4324655bf0afced0108936f8_1_1_1_0__1",
+        "gg488NEXEjs_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-f8d913f0-cefa-4fa2-af5d-f69fd6cc58ae.png",
+        "ggFVl6KeaYd_text": "100",
+        "ggKoS_rMvih_text": "Your Daily Essentials",
+        "ggKvT4qvFqU_text": "6",
+        "ggM-D8MJQyy_text": "Unlock Powerful Benefits at a Glance",
+        "ggNZ-QzNK1i_text": "<p>mog per serving</p>",
+        "ggQE0eZFCca_text": "<p>/week ritual</p>",
+        "ggWwPMLNLbm_text": "3x",
+        "gg_zXXUbCaR_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-d913269a-d0ae-4712-8cc9-69df299d1afe.png",
+        "ggfWVUUc2mp_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-d37f1845-2fa7-44f9-bff0-8dab316a9ee3.png",
+        "ggioTscZAy9_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-02de95df-4361-456d-9244-174b694b3f64.png",
+        "ggjKch7Ey3y_text": "185",
+        "ggmcZuZcd9D_text": "<p>Get quick insights into the natural ingredients and unique benefits that make our matcha truly stand out.</p>",
+        "ggoj7aqpmmt_text": "<p>Boosts Energy &amp; Focus</p>",
+        "ggorohAEH3b_text": "<p>Clean &amp; Green Formula</p>",
+        "ggp71OrsC3P_text": "<p>-day starter pack</p>",
+        "ggvWDd2RK6b_text": "<p>Supports Radiant Skin</p>",
+        "ggy4uPuPO7y_text": "<p>% natural plants</p>"
+      },
+      "type": "gp-section-634254761847161837"
+    },
+    "gp_section_634254761847227373": {
+      "settings": {
+        "checksum": "44e893e1dbdaa46c120aa13696a50e0309d2b64f501e9f839052c5d171aff56f_1_1_1_0__1",
+        "gg0XPH_7yyZ_label": "FAQ&nbsp;",
+        "gg3_a-f4CwE_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-f20d9943-7c65-42da-87bd-dd7209ee237f.png",
+        "gg5qywt0K9t_text": "<p>Copyright © 2025 GemPages.</p>",
+        "gg7_T-Yfz-x_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-1cd135b4-e229-45c0-8552-08ed7005ead1.png",
+        "gg8oE8gi7yv_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-9b75870f-ca0f-4a2e-8cfa-4cab8c390344.png",
+        "ggE3kXaswCw_label": "Delivery Information",
+        "ggMvnuz8Jan_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-f12df0fc-9708-4fbf-82a8-601f2f0d70ef.png",
+        "ggUL8LT1If8_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-762669bf-c0d4-41a3-8fc4-c835555dae7d.png",
+        "ggWr-dwOluu_label": "Return &amp; Exchange&nbsp;",
+        "gg_i2XEkPhD_label": "Contact Us"
+      },
+      "type": "gp-section-634254761847227373"
+    },
+    "gp_section_634254761863938610": {
+      "settings": {
+        "checksum": "d110c59728e53fb3daad97e9da9d9801420072960cf8f774a219677736a7b8c9_1_1_1_0__1",
+        "gg0QYevuX6T_text": "<p>150mg / 180ml</p>",
+        "gg0ezMPcE_R_text": "What’s Inside Your Matcha Glow Shot",
+        "gg10_tHcnLW_text": "<p>Aloe Vera</p>",
+        "gg3WXSMQMMX_text": "<p>deeply supports skin hydration and helps maintain a healthy, glowing complexion</p>",
+        "gg8apvLVHcO_text": "<p>hydrates and soothes your skin, providing a cooling and revitalizing sensation throughout the day</p>",
+        "ggByv4YEXWq_text": "<p>Cucumber</p>",
+        "ggC2RDXfkw6_text": "<p>1000mg / 180ml</p>",
+        "ggCjbYiOj7B_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-a71a3f44-717e-4969-8459-2c6918b5ed4f.png",
+        "ggFwGp3au4u_text": "<p>&nbsp; &nbsp;Nature’s Best in Balance &nbsp;&nbsp;</p>",
+        "ggMAinp4OUY_text": "<p>(energizing)</p>",
+        "ggQAUpSGGvm_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-bcd67d94-f577-4fac-ba76-d7715c19a7ee.png",
+        "ggT1poyOCtp_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-ce9a699d-58d6-4433-ae31-8e48955f9e4e.png",
+        "ggUndFzkwah_text": "<p>rich in antioxidants that boost mental focus, energy, and overall wellness naturally</p>",
+        "ggWOPzK37Iw_text": "<p>Jasmine</p>",
+        "ggaAng_tUJC_text": "<p>500mg / 180ml</p>",
+        "ggbDPfZthV-_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-c00ea32a-14ca-4d96-9c52-d432dcb80e93.png",
+        "ggdEIpSlAl2_text": "<p>gently calms the senses while enhancing your natural radiance and promoting relaxation</p>",
+        "gghN6P18nbS_text": "<p>200mg / 180ml</p>",
+        "gghv6XR8t98_text": "<p>(aromatic)</p>",
+        "ggjhV4GDak5_text": "<p>(soothing)</p>",
+        "ggm50dUE3_x_text": "<p>Matcha</p>",
+        "ggrbnouJKHP_text": "<p>(refreshing)</p>"
+      },
+      "type": "gp-section-634254761863938610"
+    },
+    "gp_section_634254761880715826": {
+      "settings": {
+        "checksum": "5fb3b3201da193d42cb5c371382f200ff5f9e95c228c4d8b70b874dd4c84d763_1_1_1_0__1",
+        "gg-qjiN4SmL_text": "<p>Water Bottle</p>",
+        "gg1keck9eLv_background_desktop_image_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-d39e74c1-2b90-4741-a24d-3f6267db718b.png",
+        "gg2Re0LGbYI_text": "<p><s>$27.00</s></p>",
+        "gg5B2YajYLw_text": "<p>$24.84</p>",
+        "ggFxCBTjB4f_text": "<p>Buy 6 Pouches</p>",
+        "ggHBlRrNecK_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-44490776-8e54-4fd7-8842-5637abf84e82.png",
+        "ggJSBzNq_7S_text": "<p>$24.84</p>",
+        "ggPMHheh4N7_text": "Shop 6 Pouches,<br>Enjoy 2 Free Gifts",
+        "ggT0YIX2YU-_text": "<p>Free</p>",
+        "ggaFVrr2sOe_childItem_0": "<p>10-Day Easy Returns and Exchanges</p>",
+        "ggdMKoGw-QJ_text": "<p>Total</p>",
+        "ggde-VVkZ6D_label": "<p>Fuel Your Wellness</p>",
+        "ggdntyge5Oq_text": "<p><s>$12.00</s></p>",
+        "ggiHKbStRhK_text": "<p>Reusable bottle for daily Glow</p>",
+        "ggkcbHJ7PxC_text": "<p><s>$15.00</s></p>",
+        "gglBiz74Nte_text": "<p>$4.14/pouch</p>",
+        "ggpT-s-XNv__text": "<p>Free</p>",
+        "ggqTXqjngAn_text": "<p>Minimal tote for mindful living</p>",
+        "ggskk8DjLZI_text": "<p><s>$54.00</s></p>",
+        "ggvDA90FQSF_text": "<p>FIRST TIME PURCHASE INCLUDES:</p>",
+        "ggxoTTA2Fy4_text": "<p>&nbsp; &nbsp;Extra gifts, extra joy &nbsp;&nbsp;</p>",
+        "ggzpgQiwL4s_text": "<p>Canvas Tote Bag</p>"
+      },
+      "type": "gp-section-634254761880715826"
+    },
+    "gp_section_634254761981379159": {
+      "settings": {
+        "checksum": "a688845c2dd320b8f164293f3e847c6ac4ae556ec2fd414e914be45ab070378c_1_1_1_0__1",
+        "gg-15MO_Ev0_label": "<p>Fuel Your Wellness</p>",
+        "gg2Dk3ORWs9_text": "<p>$4.50/Pouch</p>",
+        "gg2Mv7w95Ol_text": "<p>Others</p>",
+        "gg39xDN7QYs_text": "<p>No Added Sugar</p>",
+        "gg86TToHdkf_text": "<p>Quick Daily Energy</p>",
+        "ggAB8yljbGa_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-faf1881c-2715-4ad6-9440-378c9ab55a84.png",
+        "ggIseoh6PbT_text": "<p>4.8/5 based on 182k+ Real Customers</p>",
+        "ggMT1h04cTO_text": "<p>Cost-effective</p>",
+        "ggTrL1_mON5_text": "<p>&nbsp; &nbsp;Nature’s daily boost &nbsp;&nbsp;</p>",
+        "ggUfKIUmT9P_text": "<p>Sustainably Sourced</p>",
+        "ggXDyXKz_DC_text": "<p>Convenient Pack</p>",
+        "ggcTG5f8UXZ_text": "<p>Boosts Skin Glow</p>",
+        "gggpO6m6sZY_text": "<p>Natural Ingredients</p>",
+        "ggphj4SuTkr_text": "Match Glow Shot: Your daily boost",
+        "ggqaXX-Qsc0_text": "<p>$5.50/Pouch</p>",
+        "ggzYrrwgS62_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-cbab5572-c729-4f30-87cf-a7a944f2c3a5.png",
+        "ggzn670Uvch_text": "<p>Rating is verified by real users only</p>"
+      },
+      "type": "gp-section-634254761981379159"
+    },
+    "gp_section_634254762014933591": {
+      "settings": {
+        "checksum": "e7faf6b9e5264a8de0ffb681a77f5d3e9735b175f56de123eebe3961f61623e0_1_1_1_0__1",
+        "gg-mk5v2Gdn_text": "<p>Matcha Glow Shot truly helps me feel balanced and mentally focused throughout the day. The clean, natural ingredients make it my go-to daily wellness drink for lasting health and vitality.</p>",
+        "gg17KakozpX_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-492c58d9-be64-4fb3-afe5-a216bff983f7.png",
+        "gg1B8IBFMMo_text": "<p>Sarah L.</p>",
+        "gg9YQEh4O0I_text": "<p>Daily Energy</p>",
+        "ggAdth08Wrh_text": "<p>Since using Match Glow Shot, my skin feels hydrated and looks brighter. It’s a refreshing daily ritual I truly enjoy️, boosting my confidence and overall wellness every day.</p>",
+        "ggBrvvnbvuf_text": "<p>Verified Buyer</p>",
+        "ggJYJaHIRgQ_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-5ebf8738-ad23-4846-ac1b-610ead488dc6.png",
+        "ggQ8qM-I9ir_text": "<p>Verified Buyer</p>",
+        "ggUv-vD7UQD_text": "<p>Emily R.</p>",
+        "ggYmyR6WYiM_text": "<p>Radiant Skin</p>",
+        "gggmJdgun5i_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-492c58d9-be64-4fb3-afe5-a216bff983f7.png",
+        "gghiD0Q4TFF_text": "<p>Wellness Boost</p>",
+        "gghuTGVbjbD_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-dee2a633-7918-4958-80a3-513855cc439f.png",
+        "ggjFujNg3Yy_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-492c58d9-be64-4fb3-afe5-a216bff983f7.png",
+        "ggq1NnmtiMN_text": "<p>John T.</p>",
+        "ggtC_VgBVG4_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-bab5a04c-3f4e-4f4a-8721-0402372f05da.png",
+        "ggxI-UPGNRh_text": "<p>I love how this matcha gives me smooth, lasting energy without jitters. Perfect for my busy workdays and workouts, keeping me focused and energized all day long.</p>",
+        "ggyGjl5xXMc_text": "<p>Verified Buyer</p>",
+        "ggylYixX5ZI_text": "Trusted daily by happy users"
+      },
+      "type": "gp-section-634254762014933591"
+    }
+  },
+  "order": [
+    "gp_section_634254759263470573",
+    "gp_section_634254758860817389",
+    "gp_section_634254759280247346",
+    "gp_section_634254760874083309",
+    "gp_section_634254760823751255",
+    "gp_section_634254761847161837",
+    "gp_section_634254761863938610",
+    "gp_section_634254761578725938",
+    "gp_section_634254760857305868",
+    "gp_section_634254761880715826",
+    "gp_section_634254761981379159",
+    "gp_section_634254762014933591",
+    "gp_section_634254761847161612",
+    "gp_section_634254761729721100",
+    "gp_section_634254761847227373",
+    "gp_section_634254758860816983"
+  ]
+}
