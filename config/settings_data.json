@@ -16,13 +16,6 @@
     "badge_sold_out_background_color": "#eef1ea",
     "badge_sold_out_text_color": "{{ settings.color_palette.foreground }}",
     "badge_text_transform": "none",
-    "blocks": {
-      "634199454563435095": {
-        "disabled": false,
-        "settings": {},
-        "type": "shopify://apps//blocks/embed-gp-script-head/20b379d4-1b20-474c-a6ca-665c331919f3"
-      }
-    },
     "button_border_radius_primary": 14,
     "button_border_radius_secondary": 14,
     "card_corner_radius": 4,
